@@ -5,7 +5,7 @@ React Router, Context API, and Tailwind CSS.
 
 ## 🌐 Live Demo
 
-https://webpulse-fawn.vercel.app/
+https://webpulse-app.vercel.app/
 
 ## 📂 GitHub Repository
 
